@@ -1,0 +1,14 @@
+COMO ABRIR:
+
+1. Extraia o ZIP completo.
+2. Abra a pasta extraída.
+3. Execute INICIAR_APP.bat.
+
+Se preferir pelo PowerShell, entre na pasta e rode:
+python -m streamlit run app.py
+
+O app.py contém:
+- slides atualizados em PNG
+- 10 segundos por slide
+- 30 segundos no link do painel
+- tentativa de forçar Modo TV no link do painel
