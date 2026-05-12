@@ -1,0 +1,17 @@
+COMO USAR
+
+1. Extraia o ZIP em uma pasta.
+2. Clique duas vezes em INICIAR_APP.bat.
+3. O sistema vai instalar as dependencias e abrir o app.py.
+
+O app foi feito para:
+- Exibir cada slide por 10 segundos.
+- Exibir o painel por 30 segundos.
+- Evitar o erro do iframe do Streamlit Cloud.
+- Mostrar o painel como captura de tela em Modo TV.
+
+Se abrir pelo PowerShell, use:
+python -m streamlit run app.py
+
+Caso apareça erro do Playwright, execute:
+python -m playwright install chromium
