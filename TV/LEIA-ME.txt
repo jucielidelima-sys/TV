@@ -1,0 +1,12 @@
+COMO USAR
+
+1. Extraia o ZIP completo.
+2. Abra a pasta extraida.
+3. Clique duas vezes em INICIAR_APP.bat.
+
+O app.py exibe:
+- cada slide por 10 segundos;
+- o painel por 30 segundos;
+- painel forçado em modo TV usando iframe largo 1920x1080.
+
+Caso o navegador abra uma versao antiga, pressione CTRL + F5 ou feche todas as abas antigas do Chrome antes de abrir novamente.
